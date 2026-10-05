@@ -2,6 +2,15 @@
 
 A polished, intelligent take on the classic Tic Tac Toe game, featuring an unbeatable AI, stunning visuals, and local multiplayer.
 
+<p align="center">
+  <strong>🚀 Try <br> </strong>
+  <a href="https://mdrajaulkarim.github.io/Tic-Tac-Toe/">
+    <strong> Tic-Tac-Toe Live→</strong>
+  </a>
+</p>
+
+---
+
 ## ✨ Features
 1. 🤖 **Minimax AI Opponent:** Play against an intelligent AI with three difficulty tiers:
   - **Easy:** Mostly random moves, occasionally blocks wins.
